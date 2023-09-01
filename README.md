@@ -34,9 +34,10 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
+            Golang::class,
+            Python::class,
             Laravel::class,
             Angular::class,
-            Python::class,
             Flask::class,
             Bootstrap::class,
             Docker::class,
